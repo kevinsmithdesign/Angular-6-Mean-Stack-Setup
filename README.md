@@ -1,0 +1,5 @@
+# Angular-6-Mean-Stack-Setup
+
+NPM START
+
+SIMPLE ANGULAR CRUD SETUP. 
